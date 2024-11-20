@@ -1,9 +1,8 @@
-package com.techurity.authenticationJwt.auth;
+package com.bayoumi.authenticationJwt.auth;
 
-import com.techurity.authenticationJwt.UserRepository;
-import com.techurity.authenticationJwt.config.JwtService;
-import com.techurity.authenticationJwt.user.Role;
-import com.techurity.authenticationJwt.user.User;
+import com.bayoumi.authenticationJwt.UserRepository;
+import com.bayoumi.authenticationJwt.config.JwtService;
+import com.bayoumi.authenticationJwt.user.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

@@ -1,4 +1,4 @@
-package com.techurity.authenticationJwt;
+package com.bayoumi.authenticationJwt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.techurity.authenticationJwt.demo;
+package com.bayoumi.authenticationJwt.demo;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

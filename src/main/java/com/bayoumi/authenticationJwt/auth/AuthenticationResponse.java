@@ -1,4 +1,4 @@
-package com.techurity.authenticationJwt.auth;
+package com.bayoumi.authenticationJwt.auth;
 
 import lombok.*;
 

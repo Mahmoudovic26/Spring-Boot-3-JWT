@@ -1,6 +1,6 @@
-package com.techurity.authenticationJwt.config;
+package com.bayoumi.authenticationJwt.config;
 
-import com.techurity.authenticationJwt.user.User;
+import com.bayoumi.authenticationJwt.user.User;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -15,7 +15,7 @@ import java.util.function.Function;
 
 @Service
 public class JwtService {
-    private static final String SECRET_KEY="lNhK6LwPJajvVH2Os97QldISjviNcl55o9WZzlVRKc4=";
+    private static final String SECRET_KEY=""; //add your secret key
 
     public String extractUsername(String token) {
         return extractClaim(token,Claims::getSubject);

@@ -1,6 +1,6 @@
-package com.techurity.authenticationJwt.auth;
+package com.bayoumi.authenticationJwt.auth;
 
-import com.techurity.authenticationJwt.user.Role;
+import com.bayoumi.authenticationJwt.user.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

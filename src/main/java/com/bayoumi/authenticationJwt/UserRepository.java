@@ -1,6 +1,6 @@
-package com.techurity.authenticationJwt;
+package com.bayoumi.authenticationJwt;
 
-import com.techurity.authenticationJwt.user.User;
+import com.bayoumi.authenticationJwt.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

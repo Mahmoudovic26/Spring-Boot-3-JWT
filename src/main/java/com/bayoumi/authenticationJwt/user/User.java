@@ -1,8 +1,7 @@
-package com.techurity.authenticationJwt.user;
+package com.bayoumi.authenticationJwt.user;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.apache.tomcat.util.net.jsse.JSSEImplementation;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

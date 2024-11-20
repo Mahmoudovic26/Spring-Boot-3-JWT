@@ -1,4 +1,4 @@
-package com.techurity.authenticationJwt.config;
+package com.bayoumi.authenticationJwt.config;
 
 
 import jakarta.servlet.FilterChain;
